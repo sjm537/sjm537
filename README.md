@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sjm537
-- 👀 I’m interested in data analytics and computer programming, specifically the intersection between the two.
+- 👀 I’m interested in data analytics and computer programming, especially in combination with each other.
 - 🌱 I’m currently learning Python, in addition to continued work on HTML/CSS/Javascript.
-- 💞️ I’m looking to collaborate on simple projects that will help me get used to working within GitHub. I've had this account for well over a year and have used it periodically for various purposes, but I still don't feel as comfortable moving around the platform as I want to be
+- 💞️ I’m looking to collaborate on simple projects that will help me get used to working within GitHub. I've had this account for well over a year and have used it periodically for various purposes, but I want to get to a point where using GitHub is second nature.
 - 📫 Contact me on Twitter @sjmiller537
 
 <!---
